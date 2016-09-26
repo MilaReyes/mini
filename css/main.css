@@ -1,0 +1,33 @@
+*{
+	font-family: "Roboto";
+}
+nav.navbar{
+	background-color: yellow;
+	border:yellow;
+	padding: 2% 5%;
+}
+.bg{
+	background-color: yellow;
+	padding: 20%;
+	margin-top:-20px;
+	color:white;
+}
+.thumb{
+	background-color:grey;
+}
+.first{
+	padding-top: 3%;
+}
+.square{
+	width: 150px;
+	height: 150px;
+	background-color: #DCD8D8;
+}
+span{
+	color:white;
+}
+footer{
+	background-color: black;
+	padding: 1% 3% 2% 3%;
+	color:white;
+}
